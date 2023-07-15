@@ -1,0 +1,1040 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"path",
+				"jsonParamsPath"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"ran",
+				"math.random()"
+			],
+			[
+				"default",
+				"defaultString"
+			],
+			[
+				"elem",
+				"elementData"
+			],
+			[
+				"sectio",
+				"sectionStore"
+			],
+			[
+				"coll",
+				"collapsable"
+			],
+			[
+				"colla",
+				"collapsable"
+			],
+			[
+				"contentH",
+				"contentHeight"
+			],
+			[
+				"newR",
+				"display.newRect()"
+			],
+			[
+				"conten",
+				"section.group.contentHeight"
+			],
+			[
+				"con",
+				"section.group.contentWidth"
+			],
+			[
+				"createS",
+				"createSaveTextWindow"
+			],
+			[
+				"pero",
+				"timer.performWithDelay()"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"scen",
+				"window.sceneGroup:remove"
+			],
+			[
+				"highest",
+				"highestIndexPos"
+			],
+			[
+				"displ",
+				"displayIndex"
+			],
+			[
+				"found",
+				"foundObject"
+			],
+			[
+				"getP",
+				"getParentTree"
+			],
+			[
+				"ray",
+				"rayBackward"
+			],
+			[
+				"elme",
+				"elementData"
+			],
+			[
+				"eleme",
+				"elementData"
+			],
+			[
+				"setC",
+				"setFillColor()"
+			],
+			[
+				"parti",
+				"particleColorParams"
+			],
+			[
+				"finishC",
+				"finishColorVariance"
+			],
+			[
+				"draw",
+				"section:drawElements"
+			],
+			[
+				"keep",
+				"keepTitle"
+			],
+			[
+				"tool",
+				"toolbarWindowParams"
+			],
+			[
+				"regi",
+				"registerInputField"
+			],
+			[
+				"numbe",
+				"numberKeys"
+			],
+			[
+				"click",
+				"M.clickedObject"
+			],
+			[
+				"clic",
+				"M.clickedObject"
+			],
+			[
+				"setF",
+				"setFillColor()"
+			],
+			[
+				"inpu",
+				"inputIndicator"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"wid",
+				"texture.width"
+			],
+			[
+				"isB",
+				"isButtonGroup"
+			],
+			[
+				"drawB",
+				"drawButton"
+			],
+			[
+				"num",
+				"numChildren"
+			],
+			[
+				"dropd",
+				"dropdownGroup"
+			],
+			[
+				"contentC",
+				"display.contentCenterY"
+			],
+			[
+				"content",
+				"display.contentCenterX"
+			],
+			[
+				"grou",
+				"section.group:insert"
+			],
+			[
+				"prev",
+				"prevElement"
+			],
+			[
+				"linE",
+				"lineElements"
+			],
+			[
+				"drawSection",
+				"drawSectionElements"
+			],
+			[
+				"settingsW",
+				"settingsWindowSections"
+			],
+			[
+				"elemen",
+				"elementsinLine"
+			],
+			[
+				"pairs",
+				"pairs()"
+			],
+			[
+				"newIm",
+				"display.newImageRect()"
+			],
+			[
+				"emitt",
+				"emitterStore"
+			],
+			[
+				"cont",
+				"contentWidth"
+			],
+			[
+				"tit",
+				"titleCollision"
+			],
+			[
+				"closeB",
+				"closeButton"
+			],
+			[
+				"close",
+				"closeButton"
+			],
+			[
+				"mouse",
+				"mouse.pressed"
+			],
+			[
+				"hei",
+				"titleHeight"
+			],
+			[
+				"anch",
+				"obj.anchorY"
+			],
+			[
+				"fram",
+				"frameImageSize"
+			],
+			[
+				"newI",
+				"display.newImageRect"
+			],
+			[
+				"frameI",
+				"frameImageSize"
+			],
+			[
+				"move",
+				"moveDistance"
+			],
+			[
+				"slide",
+				"slideTimer"
+			],
+			[
+				"normalF",
+				"normalFrame"
+			],
+			[
+				"normal",
+				"normalFrameLocation"
+			],
+			[
+				"createBut",
+				"createButton"
+			],
+			[
+				"halfSe",
+				"halfScreenY"
+			],
+			[
+				"moveS",
+				"mapMoveSpeed"
+			],
+			[
+				"eas",
+				"easingList"
+			],
+			[
+				"enem",
+				"enemySpawners"
+			],
+			[
+				"movD",
+				"moveDelta"
+			],
+			[
+				"modul",
+				"modulesToCreateGroupsFor"
+			],
+			[
+				"smooth",
+				"smoothDeltaFrames"
+			],
+			[
+				"smoothD",
+				"M.smoothDeltaFrames"
+			],
+			[
+				"imag",
+				"imageAffix"
+			],
+			[
+				"screent",
+				"screenTileIDs"
+			],
+			[
+				"coo",
+				"cam.coords.y1"
+			],
+			[
+				"half",
+				"M.halfExtents.x"
+			],
+			[
+				"deltaA",
+				"deltaAvCount"
+			],
+			[
+				"framd",
+				"frameDeltaTime"
+			],
+			[
+				"delta",
+				"deltaAvTotal"
+			],
+			[
+				"deltaAv",
+				"deltaAvTotal"
+			],
+			[
+				"moveD",
+				"M.moveDelta.x"
+			],
+			[
+				"remov",
+				"removedModule"
+			],
+			[
+				"mod",
+				"modulesSkipped"
+			],
+			[
+				"modu",
+				"modulesSkipped"
+			],
+			[
+				"module",
+				"modulesToReturn"
+			],
+			[
+				"receiv",
+				"receiveModules"
+			],
+			[
+				"reici",
+				"receivingMod.receiveModules"
+			],
+			[
+				"recei",
+				"receiverModules"
+			],
+			[
+				"atta",
+				"attack"
+			],
+			[
+				"star",
+				"attack.startPos.x"
+			],
+			[
+				"attackT",
+				"attack.timer"
+			],
+			[
+				"acti",
+				"M.actions.move"
+			],
+			[
+				"end",
+				"attack.endPos.x"
+			],
+			[
+				"char",
+				"charge"
+			],
+			[
+				"outC",
+				"outCubic"
+			],
+			[
+				"attac",
+				"attackList"
+			],
+			[
+				"attak",
+				"attackList"
+			],
+			[
+				"attack",
+				"M.attackData.charge"
+			],
+			[
+				"currentA",
+				"currentAttack"
+			],
+			[
+				"curr",
+				"currentAction"
+			],
+			[
+				"dec",
+				"decideActionTimer"
+			],
+			[
+				"setM",
+				"setMoveTarget"
+			],
+			[
+				"att",
+				"attackList"
+			],
+			[
+				"next",
+				"nextAction"
+			],
+			[
+				"deci",
+				"decideActionRate"
+			],
+			[
+				"decid",
+				"decideAction"
+			],
+			[
+				"mov",
+				"moveDirection"
+			],
+			[
+				"utiliti",
+				"utilities.frameDeltaTime"
+			],
+			[
+				"debugTe",
+				"debugTextCounter"
+			],
+			[
+				"registe",
+				"registeredTextCounter"
+			],
+			[
+				"register",
+				"registeredTextCounter"
+			],
+			[
+				"registere",
+				"registeredTextCounter"
+			],
+			[
+				"debugT",
+				"M.debugTextStore"
+			],
+			[
+				"debu",
+				"debugTextCounter"
+			],
+			[
+				"castC",
+				"castComplete"
+			],
+			[
+				"update",
+				"updateAnimation"
+			],
+			[
+				"le",
+				"g.move.left"
+			],
+			[
+				"collisionW",
+				"collisionWidth"
+			],
+			[
+				"collision",
+				"collisionHeight"
+			],
+			[
+				"newpo",
+				"newPosX"
+			],
+			[
+				"botto",
+				"bottomLine"
+			],
+			[
+				"collisi",
+				"collisionHeight"
+			],
+			[
+				"cu",
+				"currentHP"
+			],
+			[
+				"curre",
+				"currentHP"
+			],
+			[
+				"c",
+				"cam.coords.x1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"outline",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"outli",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"where <luacheck>",
+			"where <luacheck",
+			"where luacheck",
+			"where <luacheck",
+			"where <luacheck>",
+			"where luacheck"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/Documents/Corona Projects/Particle Designer"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Documents/Corona Projects/MovementTest/particle_designer.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/main.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/editor.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/mouse_input.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/key_input.lua",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/User/outline.sublime-settings",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/easing.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/camera.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/character.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/enemies.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/augments.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/debug.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/globals.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/items.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/map.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/mapgen.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/spells.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/ui.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/utilities.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/menu.lua",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/User/Base File.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/User/CoronaSDKLua.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/empty_scene.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/config.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/game.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/keyinput.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/lib/enemy.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/map_generator.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/level_editor.lua",
+		"/C/Users/user/AppData/Roaming/Sublime Text/Packages/CoronaSDK-SublimeText/Corona Editor.sublime-settings",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/level_editor_old.lua",
+		"/C/Users/user/Documents/Corona Projects/MovementTest/build.settings",
+		"/C/Users/user/Documents/Corona Projects/LevelGenerator/menu.lua",
+		"/C/Users/user/Documents/Corona Projects/LevelGenerator/config.lua",
+		"/C/Users/user/Documents/Corona Projects/LevelGenerator/level_editor.lua",
+		"/C/Users/user/Documents/Corona Projects/TopDown/main_original.lua"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\augments.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\camera.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\character.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\debug.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\easing.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\editor.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\enemies.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\globals.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\items.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\key_input.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\map.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\mapgen.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\mouse_input.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\spells.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\ui.lua,C:\\Users\\user\\Documents\\Corona Projects\\MovementTest\\lib\\utilities.lua",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"params",
+			"emitter.params",
+			"self.params",
+			"self.parmas",
+			"emitterObject[param]",
+			"emitterObject.param",
+			"emitterObject.params",
+			"self.emitterObject.params",
+			"self.params",
+			"object.params",
+			"emitterRestartParams",
+			"self.table[i].name",
+			"lfs",
+			"createEmitter(",
+			"blendModes",
+			"param name has",
+			"drowdown",
+			"elementData",
+			"self.settingsWindow",
+			"selft.settingsWindow",
+			"selectedValue",
+			":insert(",
+			"colGroup:insert",
+			".colGroup:insert",
+			"self.",
+			"setBlendMode",
+			"elementData",
+			"dropdown.items",
+			"createDropdownItem",
+			"dropdown.group",
+			"createCollision",
+			"colGroup",
+			"createCollision",
+			"createEmitter",
+			"createEmitter(",
+			"settings",
+			"createEmitter",
+			"createWindow",
+			"emitter",
+			"window.emitter",
+			"xSpacing",
+			"xLabelSpacing",
+			"xSpacing",
+			"elementData",
+			"adding window section ",
+			"createCollision",
+			"label",
+			"settingsWindowSections",
+			"sectionData",
+			"sections",
+			"emitter",
+			"~",
+			"createWindow",
+			"self.colGroup",
+			"colGroup",
+			"display.newGroup",
+			"colGroup",
+			"self.element",
+			"self.dropdown",
+			"element.",
+			"windowStore",
+			"createCollision",
+			"x.png",
+			"createCollision",
+			"createDropdownItem",
+			":insert",
+			"so we can",
+			"settingsWindowSections",
+			"param",
+			"section.group",
+			"elementCount",
+			"sectionCount",
+			"sectionName",
+			"elementCount",
+			"listener",
+			"we ",
+			"it ",
+			"the ",
+			"it ",
+			"the ",
+			"view",
+			"timer.perform",
+			"timer.",
+			"createTitle",
+			"bgGroup",
+			"bg.",
+			"parchment",
+			"data.width",
+			"data.height",
+			"createButton",
+			"enemyS",
+			"enemySpawners",
+			"createSpawners",
+			"M.enemySpawners",
+			"updateSpawners",
+			"spawnEnemy",
+			"screenPos",
+			"M.enemyS",
+			"screen.x",
+			"isVisible",
+			".rect = ",
+			"spellsGroup",
+			"spawn enemy ",
+			"char.ch",
+			"character =",
+			"character",
+			"M.character",
+			"char",
+			"M.character",
+			"character",
+			"button:",
+			"group",
+			"characterGroup",
+			"cam.coords.x1",
+			"rect.x = ",
+			"print(",
+			"tileStore",
+			"createTile",
+			"delta",
+			"character.isMoving",
+			"delta",
+			"camDelta",
+			"delta",
+			"\"camDelta\"",
+			"screenX",
+			".startTileID",
+			"idtoworldxy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"element.data",
+			"M.",
+			"colGroup",
+			"self.",
+			"",
+			" ",
+			"height",
+			"characterGroup",
+			"idto",
+			"util.",
+			"",
+			"deltaPos.",
+			"attack.",
+			"self.attack.",
+			"self.pos.screen.y",
+			"self.pos.screen.x",
+			"self.pos.y",
+			"self.pos.x",
+			"self.pos.s",
+			"move.target.",
+			"move.direction",
+			"M.enemyData",
+			"enemiesGroup",
+			"M.lineCounter",
+			"M.debugTextCounter",
+			"enemy.",
+			"animTypeAttack",
+			"animTypeWalk",
+			"animAttack",
+			"animWalk",
+			"itemsGroup",
+			"tile",
+			"",
+			"M.",
+			"Segment",
+			"segment",
+			"math.ceil",
+			"count",
+			"direction",
+			"addStep(corridor, direction, count)",
+			"room",
+			"M.gen.cRoomCounter",
+			"M.gen.cRoom",
+			"M.gen.CorridorRoom",
+			"currentRoom.corridorY",
+			"currentRoom.corridorX",
+			"M.gen.rooms",
+			"M.gen.y",
+			"M.gen.x",
+			"gen.mapIndex",
+			"gen.counter",
+			"gen.displayGroup",
+			"gen.tileSize",
+			"gen.size",
+			"gen.sizeX",
+			"sizeX",
+			"mapSizeY",
+			"mapSizeX",
+			"M.gen.",
+			"particles.groupSize",
+			"enemyStore",
+			"utilities.frameDeltaTime",
+			"prefix..g.image",
+			"g.move.",
+			"M.",
+			"scene.enemyStore",
+			"e.animations.walk",
+			"e.animations.attack",
+			"scene.move.",
+			"character",
+			"animAttack",
+			"animWalk",
+			"animAttack",
+			"e.animations.walk.images",
+			"e.animations.attack.images",
+			"animWalk.phase",
+			"animWalk.frameCount",
+			"animWalk.rate",
+			"animWalk.timer",
+			"animAttack.phase",
+			"animAttack.frameCount",
+			"animAttack.rate",
+			"animAttack.timer",
+			"scene.frameDeltaTime",
+			"e",
+			"e.animationTimer",
+			"enemyToMove",
+			"enemy",
+			"walkPrefix",
+			"fs",
+			"\"/walk_\"",
+			"",
+			"animationTimer",
+			"characterMoveDirection == move.",
+			"characterMoveDirection = move.",
+			"4",
+			"3",
+			"2",
+			"1",
+			"not ",
+			"pickedTileID",
+			"mapIndex"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
