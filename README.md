@@ -1,5 +1,6 @@
 # Solar-2D-Particle-Designer
 To adjust and save Solar2D emitter paramaters on the fly
+Windows binary and HTML5 available at: https://skipgamer.itch.io/solar-2d-particle-designer
 
 Features:
 
