@@ -96,7 +96,7 @@
 		height = height or 50
 		posX = posX or display.contentWidth - width - 20
 		posY = posY or display.contentHeight - height - 20 - ((height + 20) * M.debugTextStoreCounter)
-		label = label or "debug"..tostring(M.debugTextStoreCounter)
+		label = label or ("debug "..tostring(M.debugTextStoreCounter))
 		value = value or "value"
 
 		local debugText = { labelRect = nil, valueRect = nil, bg = nil, group = nil}
@@ -120,7 +120,8 @@
 		
 		debugText.bg = display.newRect( debugText.group, 0, 0, width, height )
 		debugText.bg.anchorX, debugText.bg.anchorY = 0, 0
-		debugText.bg:setFillColor( 0 )
+---@diagnostic disable-next-line: undefined-field
+		debugText.bg:setFillColor( 0, 0, 0 )
 		debugText.bg.alpha = 0.2
 
 							--display.newText( [parent,] text, x, y [, width, height], font [, fontSize] )
@@ -131,6 +132,7 @@
 		debugText.valueRect = display.newText( debugText.group, value, 0, 0, native.systemFont, 16 )
 		debugText.valueRect.anchorX, debugText.valueRect.anchorY = 0, 0
 		debugText.valueRect.x = 5
+---@diagnostic disable-next-line: undefined-field
 		debugText.valueRect.y = debugText.labelRect.contentHeight
 
 		M.debugTextStore[M.debugTextStoreCounter] = debugText
@@ -144,7 +146,7 @@
 	M.fpsDisplay = {}
 
 	function M.createFps()
-		M.fpsDisplay = createDebugText( "fps", "init", 0, 600, width, height )
+		M.fpsDisplay = createDebugText( "fps", "init", 0, 600, 0, 0 )
 	end
 	function M.updateFps(fps)
 		if (M.fpsDisplay) then

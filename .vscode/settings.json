@@ -1,0 +1,15 @@
+{
+    "Lua.diagnostics.disable": [
+        "inject-field",
+        "deprecated"
+    ],
+    "Lua.diagnostics.globals": [
+        "display",
+        "native",
+        "system",
+        "transition",
+        "Runtime",
+        "timer",
+        "application"
+    ]
+}

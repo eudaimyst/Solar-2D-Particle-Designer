@@ -16,6 +16,7 @@
 -- localized variables
 -----------------------------------------------------------------------------------------
 
+---@diagnostic disable-next-line: deprecated
 local pow = math.pow
 local sin = math.sin
 local cos = math.cos

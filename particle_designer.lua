@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-field
 	-----------------------------------------------------------------------------------------
 	--
 	-- particle_designer.lua
@@ -30,7 +31,7 @@
 	local folderName = "Solar2D Particle Designer"
 	lfs.chdir( system.pathForFile( "", system.DocumentsDirectory ) )
 	lfs.mkdir( folderName )
-	jsonParamsPath = lfs.currentdir() .. "/" .. folderName
+	local jsonParamsPath = lfs.currentdir() .. "/" .. folderName
 	print("JSON PATH!!!!!!! = "..jsonParamsPath)
 
 	local emitterParams = { --params used by point and radial
@@ -79,7 +80,7 @@
 	local fileCounter = 1
 	for file in lfs.dir( system.pathForFile(system.ResourceDirectory).."/content/particles/" ) do
 		--print("Found file: ".. file)
-		particleFile = {}
+		local particleFile = {}
 		particleFile.name = file
 		particleFile.value = "content/particles/"..file
 		if (file ~= "." and file ~= "..") then
@@ -326,6 +327,7 @@
 				--print(saveData)
 			    local filePath = jsonParamsPath.."/"..self.params.name..".json"
 			    local file = nil
+				local errorString = nil
 			    if ( filePath ) then
 			        file, errorString = io.open( filePath, "w" )
 			    end
